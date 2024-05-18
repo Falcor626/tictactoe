@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Falcor626/tictactoe.git/static/css/main.f4b2702b.css",
+    "main.js": "/Falcor626/tictactoe.git/static/js/main.3334a353.js",
+    "static/js/453.1d9a75e6.chunk.js": "/Falcor626/tictactoe.git/static/js/453.1d9a75e6.chunk.js",
+    "static/media/circle.png": "/Falcor626/tictactoe.git/static/media/circle.6f886212207717207bc3.png",
+    "static/media/cross.png": "/Falcor626/tictactoe.git/static/media/cross.a16551183524f3ebcaa9.png",
+    "index.html": "/Falcor626/tictactoe.git/index.html",
+    "main.f4b2702b.css.map": "/Falcor626/tictactoe.git/static/css/main.f4b2702b.css.map",
+    "main.3334a353.js.map": "/Falcor626/tictactoe.git/static/js/main.3334a353.js.map",
+    "453.1d9a75e6.chunk.js.map": "/Falcor626/tictactoe.git/static/js/453.1d9a75e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4b2702b.css",
+    "static/js/main.3334a353.js"
+  ]
+}
